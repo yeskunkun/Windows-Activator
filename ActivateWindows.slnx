@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ActivateWindows/ActivateWindows.vcxproj" Id="f98183c9-a51a-4d17-af55-5bcb86aa1ee3" />
+</Solution>
